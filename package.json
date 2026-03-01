@@ -1,0 +1,13 @@
+{
+  "name": "nextbot-gmail-push-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Hosted Gmail OAuth + push backend for NextBot clients",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
